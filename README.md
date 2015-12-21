@@ -5,13 +5,18 @@ Super lightweight MZFormSheetController subclass to use with: https://github.com
 
 [![](images/preview.png)](http://codeveyor.com)
 
+## Requirements
 
-##When to use
+- iOS 7 or higher
+- ARC
+
+
+## When to use
 - you want to have MZFormSheetController without dismissing by tapping background
 - you want to add more than one effect to background at a time
 - you want to add custom controls to background
 
-##Installation
+## Installation
 Drag CDVImagePickerViewController folder to your project 
 
 ## Contact
